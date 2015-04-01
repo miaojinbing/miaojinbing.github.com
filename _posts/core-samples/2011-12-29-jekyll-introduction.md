@@ -160,10 +160,6 @@ Only reverse chronological and chronological ordering is supported in Jekyll.
 
 Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.
 
-**Tags**
-Posts can have tags associated with them as part of their meta-data.
-Tags may be placed on posts by providing them in the post's YAML front matter.
-You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.
 
 **Categories**
 Posts may be categorized by providing one or more categories in the YAML front matter.
